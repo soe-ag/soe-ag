@@ -51,37 +51,10 @@ I enjoy creating user-friendly, visually appealing websites and applications tha
 
 ---
 
-## 💼 Work Experience
-
-**Frontend Developer @ MyNavi / 444 Co. Ltd (MyNavi Subsidiary)**
-`2025 April – Present`
-- Contributed to the **Locus Platform** — an industry-excursion platform for high school students
-- Working on new features including field study events and company lectures
-- Built and tested components and features
-- *Stack: React, Next.js, TypeScript, PandaCSS, Figma*
-
-`2023 July – 2025 March`
-- Migrated **Vue 2 → Vue 3 / Nuxt 3**, enhancing performance and maintainability
-- Implemented multilingual support with **i18n** and responsive user interfaces
-- Built shared components through **Story (Historie)** testing
-- Resolved feature bugs and carried out new feature implementations
-- *Stack: Vue 3, Nuxt 3, TypeScript, UnoCSS, Figma*
-
-**Frontend Developer @ Egodiva**
-`2022 Aug – 2023 May`
-- Developed landing pages that align with design mock-ups
-- Created visually compelling websites to meet clients' marketing goals
-- Updated websites according to marketing campaign and SEO standards
-- *Stack: JavaScript, SASS, WordPress, Figma*
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **Locus** | Industry-excursion platform for high school students in rural areas by MyNavi | React, Next.js, TypeScript | [🔗 Live](https://locus.mynavi.jp/) |
-| **TechFUL** | Programming skill assessment platform with hundreds of unique challenges | Vue 3, Nuxt 3, TypeScript | [🔗 Live](https://techful-programming.com/) |
 | **LGTM Woof** | Generate 'LGTM' dog images to spice up your Pull Requests | React, Next.js, TypeScript, Convex | [🔗 Live](https://lgtm-woof.vercel.app/) · [GitHub](https://github.com/soe-ag/lgtm-woof) |
 | **Share Finance** | Mobile-first PWA for splitting group expenses with friends | React, Next.js, TypeScript | [🔗 Live](https://share-finance.vercel.app/) |
 | **My Finance** | Personal finance tracker with portfolio visualization | React, Next.js, TypeScript, Convex | [🔗 Live](https://my-finance-woad.vercel.app/) |
