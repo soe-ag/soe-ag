@@ -23,10 +23,8 @@ I enjoy creating user-friendly, visually appealing websites and applications tha
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
@@ -45,27 +43,10 @@ I enjoy creating user-friendly, visually appealing websites and applications tha
 
 ---
 
-//## 📊 GitHub Stats
-
-//<div align="center">
-
-//![Soe Aung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soe-ag&show_icons=true&theme=tokyonight&hide_border=true)
-//![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soe-ag&layout=compact&theme=tokyonight&hide_border=true)
-
-//</div>
-
----
-
 ## 🌐 Interests
 
 - 🖥️ Frontend Engineering & UI/UX Design
 - 🎮 3D Modeling
 - 🔗 Blockchain Technologies/ Fintech
 
----
 
-<div align="center">
-  <i>Build functional and visually appealing responsive web applications that bring ideas to life.</i>
-  <br><br>
-  <a href="https://portfolio-sa-2024.netlify.app/">🌐 Visit my Portfolio</a>
-</div>
