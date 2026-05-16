@@ -29,7 +29,7 @@ I enjoy creating user-friendly, visually appealing websites and applications tha
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 | Project | Description | Tech | Links |
@@ -38,8 +38,8 @@ I enjoy creating user-friendly, visually appealing websites and applications tha
 | **Share Finance** | Mobile-first PWA for splitting group expenses with friends | React, Next.js, TypeScript | [🔗 Live](https://share-finance.vercel.app/) |
 | **My Finance** | Personal finance tracker with portfolio visualization | React, Next.js, TypeScript, Convex | [🔗 Live](https://my-finance-woad.vercel.app/) |
 | **Movie Database** | Personalized watchlist and favorites tracker | Vue 3, Nuxt 3, TailwindCSS | [🔗 Live](https://movie-db-beta.netlify.app/)  |
-
 ---
+-->
 
 ## 🌐 Interests
 
