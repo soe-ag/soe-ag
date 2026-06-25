@@ -11,9 +11,9 @@
 
 ## About Me
 
-Frontend engineer skilled in **JavaScript** and **TypeScript**, with hands-on experience in modern frameworks including **Vue**, **React**, **Nuxt**, and **Next.js**. With a **Master's degree in Engineering**, I bring a detail-oriented approach and unique perspectives to product development.
+Frontend developer skilled in **JavaScript** and **TypeScript**, with hands-on experience in modern frameworks including **Vue/Nuxt**, **React/Next.js**. With a **Master's degree in Engineering**, I bring a detail-oriented approach and unique perspectives to product development.
 
-I enjoy creating user-friendly, visually appealing websites and applications that bring ideas to life. Beyond web development, I have a keen interest in **3D modeling**, **blockchain**, and **AI** — always looking for practical ways to integrate emerging technologies into modern digital experiences.
+I enjoy creating user-friendly, visually appealing websites and applications that bring ideas to life. Beyond web development, I have a keen interest in **3D modeling**, **fintech**, and **AI** — always looking for practical ways to integrate emerging technologies into modern digital experiences.
 
 ---
 
@@ -28,7 +28,7 @@ I enjoy creating user-friendly, visually appealing websites and applications tha
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
----
+
 <!--
 ## 🚀 Featured Projects
 
@@ -40,11 +40,11 @@ I enjoy creating user-friendly, visually appealing websites and applications tha
 | **Movie Database** | Personalized watchlist and favorites tracker | Vue 3, Nuxt 3, TailwindCSS | [🔗 Live](https://movie-db-beta.netlify.app/)  |
 ---
 -->
-
+<!--
 ## 🌐 Interests
 
 - 🖥️ Frontend Engineering & UI/UX Design
 - 🎮 3D Modeling
 - 🔗 Blockchain Technologies/ Fintech
-
+-->
 
